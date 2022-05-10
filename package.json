@@ -1,0 +1,23 @@
+{
+  "name": "temp-20201005",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgeschwendt/temp-20201005.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgeschwendt/temp-20201005/issues"
+  },
+  "homepage": "https://github.com/jgeschwendt/temp-20201005#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.18.1"
+  }
+}
