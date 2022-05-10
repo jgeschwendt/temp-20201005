@@ -1,5 +1,11 @@
 # temp-20201005
 
+## 0.5.0
+
+### Minor Changes
+
+- [`315b6e9`](https://github.com/jgeschwendt/temp-20201005/commit/315b6e9d27f8dc3a21267f40f247526f9a730a2f) Thanks [@jgeschwendt](https://github.com/jgeschwendt)! - try changing the changelog
+
 ## 0.4.0
 
 - something
